@@ -1,0 +1,7 @@
+normale;V1;Malattia;Rossi;Giovanni;Tosse
+urgente;U2;Malattia;Bianchi;Veronica;Cancro
+controllo;S3;Malattia Cronica;Locatelli;Filippo;Influenza cronica;2018-03-01
+urgente;U4;Malattia Cronica;Biancalana;Valerio;Schizofrenia aggravata
+normale;V5;Vaccino;Verdi;Filippo;Vaccino Polivalente
+normale;V6;Malattia Cronica;Franceschini;Francesco;Mal di schiena
+controllo;;Malattia;Rossi;Giovanni;Tosse;2018-05-01

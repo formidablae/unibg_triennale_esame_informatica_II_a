@@ -1,0 +1,3 @@
+N1;Calcetto;2019-02-02 10:00;Michele;Fernando;true;Malta
+P2;Volley;2018-04-01 20:00;Giorgio;Antonio;false;
+C3;Basket;2016-04-01 20:00;Marco;Andrea;true;12
